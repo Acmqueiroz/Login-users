@@ -7,5 +7,12 @@
 <br>
 <br>
 
-# Confira a aplicação <a hreff="https://acmqueiroz.github.io/Login-users"> Aqui!</a>
+# Confira a aplicação <a hreff="https://acmqueiroz.github.io/Login-users/"> Aqui!</a>
 
+<h3>Tecnologias utilizadas</h3>
+
+<p>- Html</p>
+<p>- CSS</p>
+
+
+<img src="https://github.com/Acmqueiroz/Login-users/blob/master/img/desktop%20-%20cópia.png?raw=true"/>
